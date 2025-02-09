@@ -8,6 +8,8 @@ I'll paste the original store description below, since it still provides a good 
 
 As a final note, for anyone interested in picking up this project at some point in the future: I most likely won't have the time to maintain and organize this repository (and handle pull requests, merge conflicts, etc.) so I'd suggest forking it - and make it your own with some new branding, or new features!
 
+![screenshot](CMF_Logo.png)
+
 ## Description
 Character Movement Fundamentals is a rigidbody-based character movement system.
 
