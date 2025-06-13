@@ -24,7 +24,7 @@ Everything in this package is designed to be as versatile and adaptable as possi
 
 ## Features
 
-- In-depth user manual.
+- In-depth user manual. https://drive.google.com/file/d/1_hPOUJ1xAyRiHzLX_VtRV-Ck0UlNgUT_/view
 
 - Fully documented source code.
 
